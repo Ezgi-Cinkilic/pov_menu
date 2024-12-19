@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "homepage": "https://Ezgi-Cinkilic.github.io/pov_menu",
+  "homepage": "https://ezgi-cinkilic.github.io/pov_menu",
   "main": "src/index.tsx",
   "dependencies": {
     "react": "^19.0.0",
