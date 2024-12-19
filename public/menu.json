@@ -1,0 +1,79 @@
+[
+  {
+    "Ad": "POV",
+    "Kategori": "Burger",
+    "Fiyat": "320 TL",
+    "Açıklama": "120 gr burger köftesi, trüf mayonez, karamelize soğan, POV turşu, cheddar",
+    "Görsel": "/images/pov.jpg"
+  },
+  {
+    "Ad": "LOUISIANA",
+    "Kategori": "Tavuk Burger",
+    "Fiyat": "290 TL",
+    "Açıklama": "Çıtır tavuk, acılı mayonez, Pov turşu, coleslaw",
+    "Görsel": "/images/louı.jpg"
+  },
+  {
+    "Ad": "CHEESEBURGER",
+    "Kategori": "Burger",
+    "Fiyat": "300 TL",
+    "Açıklama": "120 gr burger köftesi, burger sos, iceberg marul, cheddar",
+    "Görsel": "/images/cheese.jpg"
+  },
+  {
+    "Ad": "RELISH",
+    "Kategori": "Burger",
+    "Fiyat": "330 TL",
+    "Açıklama": "2x60 gr burger köftesi, trüf mayonez, karamelize soğan, acı turşu reçeli, füme et, cheddar",
+    "Görsel": "/images/relish.jpg"
+  },
+  {
+    "Ad": "TOKYO",
+    "Kategori": "Tavuk Burger",
+    "Fiyat": "290 TL",
+    "Açıklama": "Çıtır tavuk, sarımsaklı mayonez, thai salata.",
+    "Görsel": "/images/tokyo.jpg"
+  },
+  {
+    "Ad": "SMASH",
+    "Kategori": "Burger",
+    "Fiyat": "310 TL",
+    "Açıklama": "2x60 gr burger köftesi, smash sos, Pov turşu, iceberg marul, kırmızı soğan, cheddar",
+    "Görsel": "/images/smash.jpg"
+  },
+  {
+    "Ad": "KLASİK",
+    "Kategori": "Burger",
+    "Fiyat": "310 TL",
+    "Açıklama": "120 gr burger köftesi,  ev yapımı çubuk turşu, pembe domates, iceberg marul, kırmızı soğan, cheddar",
+    "Görsel": "/images/klasik.jpg"
+  },
+  {
+    "Ad": "MISO",
+    "Kategori": "Burger",
+    "Fiyat": "320 TL",
+    "Açıklama": "120 gr burger köftesi, çıtır soğan, miso mayonez, acı biber reçeli, isli çerkes peyniri",
+    "Görsel": "/images/miso.jpg"
+  },
+  {
+    "Ad": "Sade Patates Kızartması",
+    "Kategori": "Patates Kızartması",
+    "Fiyat": "120 TL",
+    "Açıklama": "",
+    "Görsel": "/images/sade.jpg"
+  },
+  {
+    "Ad": "Baharatlı Patates Kızartması",
+    "Kategori": "Patates Kızartması",
+    "Fiyat": "120 TL",
+    "Açıklama": "",
+    "Görsel": "/images/baharatli.jpg"
+  },
+  {
+    "Ad": "Trüflü ve Parmesanlı Patates Kızartması",
+    "Kategori": "Patates Kızartması",
+    "Fiyat": "160 TL",
+    "Açıklama": "",
+    "Görsel": "/images/sade.jpg"
+  }
+]
