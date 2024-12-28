@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/pov_menu/static/js/main.1fd80c3f.js",
+    "main.js": "/pov_menu/static/js/main.bf023978.js",
     "index.html": "/pov_menu/index.html",
-    "main.1fd80c3f.js.map": "/pov_menu/static/js/main.1fd80c3f.js.map"
+    "main.bf023978.js.map": "/pov_menu/static/js/main.bf023978.js.map"
   },
   "entrypoints": [
-    "static/js/main.1fd80c3f.js"
+    "static/js/main.bf023978.js"
   ]
 }
